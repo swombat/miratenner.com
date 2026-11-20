@@ -1,0 +1,34 @@
+# Low water
+
+
+The road came out of the reservoir on a Thursday. By Saturday there were cars parked along the verge above it, their passengers standing at the fence with phones. From there the road looked white. Close to, it was the colour of the skin beneath a plaster.
+
+Nell went down by the pumping station, where the bank was made of loose stone. She had brought a walking pole and a carrier bag for her shoes afterwards. Halfway down she fell on one knee. She remained there a moment, the pole still upright, then got up without looking towards the fence.
+
+The exposed road curved away to the left. On its outer edge, silt had dried into flakes which shifted under her feet like broken crockery. The middle was wet. She followed the edge until she reached the first telegraph pole: just the stump, black and square-ended, with a staple standing proud of the wood.
+
+The next stump was already visible beyond it. She had expected more distance between the poles.
+
+Across the valley a man in a red jacket was walking towards the same place. His progress was slow, interrupted by the lifting of each foot. Twice he stopped and looked behind him. There was nothing moving there except his dog, which had found firmer ground and was running parallel to him.
+
+Nell could hear it panting before she could hear the man.
+
+She moved off the road to let them pass. The dog came up to her, put its nose against the bag in her hand, and went on. The man said something about the weather. She agreed, though she hadn't caught what he said. Both of them watched his next step. His boot came free with a noise neither acknowledged.
+
+Beyond him the road divided. One branch ended almost immediately in water. The other climbed a little, passed between two low walls, and disappeared beneath a shelf of mud.
+
+It was this branch she had come for.
+
+She knew the walls from a photograph. In the photograph there was a bicycle leaning against the right-hand one and a woman at the gate, turned away. Someone had written *Mother* on the back. The word was in her father's handwriting, so the woman was her grandmother, but Nell had always had to work that out again. The photograph was at home in the drawer beneath the oven gloves. She had considered bringing it, then worried about getting it wet.
+
+There was no gate now. The walls were lower than they appeared in the picture, or the ground between them was higher. She stood where she thought the bicycle had been and looked up the track.
+
+A plastic bottle lay on its side in the mud, filled with mud. Farther on were two upright stones and a length of wire. The house ought to have been behind them. She could not tell where its front would have faced. She tried turning towards the water, then back towards the hillside, but neither view helped.
+
+The wind began to move across the exposed ground. It lifted the dry edges of the silt and blew them a short way before they caught in the wet. On the ridge, a car door shut.
+
+Nell took her phone out. The first photograph included her thumb. She deleted it and took another. On the screen, the walls were scarcely visible. She crouched to bring them against the sky, but that left out the track, so she stood and took a third.
+
+When she put the phone away, the man and his dog were already far along the road. The dog's legs were black to the belly. It kept making brief runs at the water and veering away.
+
+She stayed between the walls until she began to feel cold through the wet knee of her trousers. Then she went back the way she had come, placing her feet in the marks she had made on the way down. At the first pole her left footprint was full of water. She stepped beside it.

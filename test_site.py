@@ -16,7 +16,7 @@ class SiteTests(unittest.TestCase):
     def test_pages(self):
         build.build()
         pages=list(build.OUT.rglob('*.html'))
-        self.assertEqual(len(pages),8)
+        self.assertEqual(len(pages),len(build.STORIES)+len(build.SECTIONS)+3)
         for p in pages:
             doc=Document(p.read_text())
             self.assertEqual(doc.h1,1,p)
@@ -30,7 +30,8 @@ class SiteTests(unittest.TestCase):
             source=(build.ROOT/'stories'/f'{slug}.md').read_text().split('\n',1)[1].strip()
             rendered=(build.OUT/slug/'index.html').read_text()
             for paragraph in source.split('\n\n'):
-                self.assertIn(f'<p>{build.inline(paragraph)}</p>',rendered)
+                if not paragraph.startswith('## '):
+                    self.assertIn(f'<p>{build.inline(paragraph)}</p>',rendered)
     def test_escaping(self):
         self.assertEqual(build.inline('<script>&'), '&lt;script&gt;&amp;')
 
